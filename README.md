@@ -1,4 +1,8 @@
 # 🎉 EventSync: The Event Management System
+<img width="1920" height="928" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/038e07ab-0f0c-4f19-842e-19b4a3a5f6df" />
+<img width="1920" height="924" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/315fec2a-e007-403e-bbbd-444df4e8d429" />
+<img width="1920" height="928" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/d898e637-941d-4011-a204-7fc647d2bc4d" />
+<img width="1920" height="922" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/dc7984c1-7991-4685-8204-f8e6bec88378" />
 
 EventSync is a modern, responsive, full-stack event management system. It features real-time role-based workspaces for both Administrators (comprehensive CRUD, analytical statistics, feedback logs) and Regular Users (browsing, searching, event scheduling with meteorological integration). The platform redefines how organizers deploy experiences and how attendees secure their entry.
 
